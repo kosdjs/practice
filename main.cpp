@@ -33,9 +33,9 @@ int main()
 			top=i;
 		}
 	}
-	cout<<"학번 : "<<s[top].id<<endl;
-	cout<<"이름 : "<<s[top].name<<endl;
-	cout<<"성적 : "<<s[top].grade<<endl;
+	cout<<"id : "<<s[top].id<<endl;
+	cout<<"name : "<<s[top].name<<endl;
+	cout<<"grade : "<<s[top].grade<<endl;
 
 	return 0;
 }
